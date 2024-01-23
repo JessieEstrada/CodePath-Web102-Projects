@@ -1,0 +1,64 @@
+#root {
+  text-align: center;
+}
+.whole-page {
+  margin-left: 150px;
+}
+
+.home-page {
+  margin: 5%;
+}
+
+.welcome-images {
+  width: 500px;
+  height: auto;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+  padding-left: 80px;
+  padding-right: 80px;
+  margin-top: 0px;
+}
+
+.web-description {
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.sidenav {
+  height: 100%;
+  width: 12%;
+  position: fixed;
+  font-size: larger;
+  font-weight: bolder;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background-color: #5b5a5a;
+  padding: 15px 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidenav-link {
+  color: white;
+  margin: 20px;
+  font-weight: 400;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.sidenav-single-monkey {
+  height: 150px;
+  width: auto;
+  position: absolute;
+  bottom: 30px;
+  align-self: center;
+}
+
+.edit-screen-monkeys-image {
+  height: 200px;
+  width: auto;
+}

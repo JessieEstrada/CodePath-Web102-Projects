@@ -1,0 +1,13 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-attachment: fixed;
+  background-color: rgb(20, 20, 20);
+  color: white;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: monospace, Avenir, Helvetica, Arial, sans-serif;
+}

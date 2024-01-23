@@ -1,0 +1,45 @@
+.post-card {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  padding: 8px;
+  min-height: 135px;
+  width: 100%;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 7px 0 rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.post-card:hover {
+  transform: scale(1.01); /* Slightly scale up on hover */
+  box-shadow: 0 8px 15px 0 rgba(0, 0, 0, 0.2); /* Increase the drop shadow size */
+}
+
+.text-card-link {
+  text-decoration: none;
+  color: black;
+}
+
+.posted-ago-container {
+  margin-top: 10px;
+  margin-bottom: auto; /* Push the container to the bottom */
+}
+
+.posted-ago-container h4 {
+  margin-bottom: auto;
+}
+
+.post-up-votes-container {
+  margin-top: auto; /* Push the container to the bottom */
+}
+
+.post-up-votes-container h4 {
+  margin-bottom: 10px;
+  margin-top: auto;
+}
+
+.post-title-container {
+  display: flex;
+  margin-top: 10px;
+}

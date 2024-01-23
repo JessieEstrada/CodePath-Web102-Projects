@@ -1,0 +1,29 @@
+.single-monkey-member {
+  height: 150px;
+  width: auto;
+}
+
+.monkey-squad-container {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px;
+  flex-wrap: wrap;
+}
+
+.monkey-card {
+  border-radius: 10px;
+  border-style: double;
+  border-color: #00000043;
+  height: auto;
+  box-shadow: 0 0 5px 2px #faf9f94d;
+  margin: 20px;
+  padding: 25px;
+  text-align: center;
+  width: 300px;
+  background-color: #5b5a5a;
+}
+
+.button-container {
+  justify-content: center;
+  align-items: center;
+}
