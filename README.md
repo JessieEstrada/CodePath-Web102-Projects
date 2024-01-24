@@ -1,5 +1,5 @@
-# CodePath WEB 102 Intermediate Web Development Course
 <img src="https://i.imgur.com/G6vDLIL.png" alt="CodePath" width="100%" height="150px">
+# CodePath WEB 102 Intermediate Web Development Course
 
 This repository showcases my journey and accomplishments during a rigorous coding bootcamp. Throughout the program, I immersed myself in an intensive curriculum that was designed to equip me with essential programming skills and practical industry knowledge. 
 
