@@ -1,6 +1,6 @@
 # CodePath WEB 102 Intermediate Web Development Course
 <img src="https://i.imgur.com/2yexhcH.png" alt="CodePath" width="100%" height="150px">
-
+<img src="https://imgur.com/a/NWFTkNF" alt="CodePath" width="100%" height="150px">
 This repository showcases my journey and accomplishments during a rigorous coding bootcamp. Throughout the program, I immersed myself in an intensive curriculum that was designed to equip me with essential programming skills and practical industry knowledge. 
 
 Each Folder holds the different assignments I worked on throughout the program (M1 Challenge - M9 Challenge & Both Summative 1 and 2). 
