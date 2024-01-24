@@ -1,4 +1,4 @@
-# These are my completed projects during the CodePath WEB102 Intermediate Web Development
+# CodePath WEB102 Intermediate Web Development Course
 <img src="https://i.imgur.com/2yexhcH.png" alt="CodePath" width="100%" height="150px">
 
 This repository showcases my journey and accomplishments during a rigorous coding bootcamp. Throughout the program, I immersed myself in an intensive curriculum that was designed to equip me with essential programming skills and practical industry knowledge. 
