@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/U5qUA55.gif)
+![](https://imgur.com/U5qUA55.gif)
 ![](https://github.com/JessieEstrada/CodePath-Web102-Projects/blob/main/CodePath-Web102-Project-Veni%20Vici!/VeniVici.gif?raw=true)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LICEcap](https://www.cockos.com/licecap/).
