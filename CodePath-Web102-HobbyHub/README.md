@@ -39,9 +39,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented required features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/JessieEstrada/CodePath-Web102-Projects/blob/main/CodePath-Web102-HobbyHub/HobbyHub.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/JessieEstrada/CodePath-Web102-Project-1/blob/main/CommunityBoard.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LICEcap](https://www.cockos.com/licecap/).
