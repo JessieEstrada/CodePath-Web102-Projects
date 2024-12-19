@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![](https://github.com/JessieEstrada/CodePath-Web102-Project-1/blob/main/CommunityBoard.gif)
+![](https://github.com/JessieEstrada/CodePath-Web102-Projects/blob/main/CodePath-Web102-HobbyHub/HobbyHub.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LICEcap](https://www.cockos.com/licecap/).
