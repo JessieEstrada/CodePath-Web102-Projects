@@ -31,8 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![](https://github.com/JessieEstrada/CodePath-Web102-Project-1/blob/main/CommunityBoard.gif)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LICEcap](https://www.cockos.com/licecap/).
 <!-- Recommended tools:
