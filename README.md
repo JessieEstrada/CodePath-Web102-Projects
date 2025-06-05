@@ -1,5 +1,5 @@
 # CodePath WEB 102 Intermediate Web Development Course
-<img src="https://i.imgur.com/G6vDLIL.png" alt="CodePath" width="100%" height="150px">
+![Repository Banner Image](Repository%20Banner%20Image.png)
 
 This repository showcases a diverse array of projects that encapsulate my transformative journey through CodePath's WEB 102 Intermediate Web Development Course. Throughout this immersive experience, I elevated my proficiency by responding adeptly to complex user inputs, enhancing the overall user experience through dynamic interactions in web applications. 
 
